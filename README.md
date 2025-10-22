@@ -8,10 +8,10 @@
 ### 🧩 About Me  
 💼 Currently at **J.P. Morgan**, solving problems one line of Python at a time.  
 🚀 Previously collaborated with engineers at **Cisco** as a contractor.  
-🧠 Passionate about **AI, Cloud, Blockchain, and Open Source**.  
-🎨 Created a painting where a **tree grows with people-shaped colors** — I see code the same way: colorful, creative, connected.  
+🧠 Passionate about **AI, Cloud, Fullstack, and Open Source**.  
+🎨 Like doing drawings — I see code the same way: colorful, creative, connected.  
 ☁️ Certified **AWS Cloud Practitioner**.  
-🧵 Always exploring: **Python**, **Django**, **AI**, **Japanese (日本語)**, and **data structures**.
+🧵 Always exploring: **Algorithms** and **data structures**.
 
 ---
 
@@ -28,8 +28,6 @@
 
 [![An image of @sonianuj287's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sonianuj287)](https://holopin.io/@sonianuj287)
 
-⚡ Latest GitHub Activity
-<!--START_SECTION:activity--> <!--END_SECTION:activity-->
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sonianuj287&show_icons=true&theme=tokyonight" height="165"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonianuj287&layout=compact&theme=tokyonight" height="165"> </p>
