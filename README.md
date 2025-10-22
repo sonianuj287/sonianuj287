@@ -22,7 +22,7 @@
   "frameworks": ["Django", "React", "FastAPI"],
   "cloud": ["AWS", "GCP"],
   "tools": ["Docker", "GitHub Actions", "PostgreSQL"],
-  "learning": ["AI", "Blockchain", "Japanese"]
+  "learning": ["AI", "Blockchain"]
 }
 ```
 
