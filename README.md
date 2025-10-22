@@ -34,5 +34,5 @@
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sonianuj287&show_icons=true&theme=tokyonight" height="165"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonianuj287&layout=compact&theme=tokyonight" height="165"> </p>
 
-<p align="center"> <a href="https://www.linkedin.com/in/anujsoni"><img src="https://img.shields.io/badge/LinkedIn-Anuj%20Soni-blue?logo=linkedin&logoColor=white"/></a> <a href="mailto:anujsoni.work@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white"/></a> <a href="https://github.com/sonianuj287"><img src="https://img.shields.io/github/followers/sonianuj287?label=Follow&style=social"></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/anuj-soni-920957173/"><img src="https://img.shields.io/badge/LinkedIn-Anuj%20Soni-blue?logo=linkedin&logoColor=white"/></a> <a href="mailto:anujsoni.work@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white"/></a> <a href="https://github.com/sonianuj287"><img src="https://img.shields.io/github/followers/sonianuj287?label=Follow&style=social"></a> </p>
 
